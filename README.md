@@ -18,7 +18,7 @@ This is a coding text area that can be downloaded as a pwa or used online. The p
   - [Repository Link:](#repository-link)
   - [Deployed Applicaiton](#deployed-applicaiton)
   - [Screenshots.](#screenshots)
-    - [Figure 1. Command line interface](#figure-1-command-line-interface)
+    - [Figure 1 Application text editor](#figure-1-application-text-editor)
   - [Installation Process](#installation-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -86,7 +86,7 @@ THEN I should have proper build scripts for a webpack application
 [Click Here to view deployed app.](https://my-pwa-text-editor1-494dcc0ffcd1.herokuapp.com/)
 
 ## Screenshots.
-### Figure 1. Command line interface
+### Figure 1 Application text editor
 ![screen shot 1](./images/Screenshot%202023-06-29%20at%207.37.12%20pm.png)
 
 ![screen shot 2](./images/Screenshot%202023-06-29%20at%207.38.36%20pm.png)
